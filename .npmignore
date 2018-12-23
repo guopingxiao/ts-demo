@@ -1,0 +1,17 @@
+src
+tests
+report
+tsconfig.json
+tslint.json
+.travis.yml
+.github
+.prettierignore
+.editorconfig
+.vscode
+build/docs
+**/*.spec.*
+coverage
+.nyc_output
+*.log
+.jscpd
+.idea

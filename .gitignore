@@ -1,0 +1,15 @@
+.DS_Store
+node_modules
+build
+report
+test
+.idea
+src/**.js
+
+coverage
+.nyc_output
+.jscpd
+*.log
+test.ts
+
+yarn.lock
